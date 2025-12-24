@@ -1,0 +1,23 @@
+{
+  "database": {
+    "host": "192.168.1.149",
+    "database": "hul",
+    "user": "postgres",
+    "password": "ai4m2024",
+    "port": 5432
+  },
+  "nats": {
+    "server": "nats://192.168.1.149:4222",
+    "topic": "adv.217"
+  },
+  "plcs": {
+    "17": {
+      "ip": "141.141.141.128",
+      "topic": "adv.217"
+    },
+    "18": {
+      "ip": "141.141.141.138",
+      "topic": "adv.217"
+    }
+  }
+}

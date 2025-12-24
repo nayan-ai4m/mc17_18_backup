@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "MC_Hor_Sealer_Current",
+    "MC_Ver_Sealer_Current",
+    "MC_Rot_Valve_1_Current",
+    "MC_Fill_Piston_1_Current",
+    "MC_Fill_Piston_2_Current",
+    "MC_Rot_Valve_2_Current",
+    "MC_Web_Puller_Current",
+    "MC_Hor_Sealer_Position",
+    "MC_Ver_Sealer_Position",
+    "MC_Rot_Valve_1_Position",
+    "MC_Fill_Piston_1_Position",
+    "MC_Fill_Piston_2_Position",
+    "MC_Rot_Valve_2_Position",
+    "MC_Web_Puller_Position",
+    "MC_Cam_Position",
+    "MC_Pulling_Servo_Current",
+    "MC_Pulling_Servo_Position",
+    "MC_Hor_Pressure",
+    "MC_Ver_Pressure"
+  ]
+}
